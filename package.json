@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/umaratimomo-hub/coderco-custom#readme",
   "dependencies": {
-    "@actions/core": "^3.0.1"
+    "@actions/core": "^1.10.0"
   }
 }
