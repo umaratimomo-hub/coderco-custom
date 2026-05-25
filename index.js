@@ -1,4 +1,4 @@
-const core = require('@actions/core/lib/core.js');
+const core = require('@actions/core');
 
 try {
   const nameToGreet = core.getInput('who-to-greet');
